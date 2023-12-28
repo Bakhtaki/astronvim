@@ -10,6 +10,12 @@ return {
       "bash",
       "yaml",
       "json",
+      "javascript",
+      "typescript",
+      "html",
+      "css",
+      "toml",
+      "go",
     })
   end,
 }
