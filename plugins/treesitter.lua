@@ -16,6 +16,7 @@ return {
       "css",
       "toml",
       "go",
+      "sql",
     })
   end,
 }
